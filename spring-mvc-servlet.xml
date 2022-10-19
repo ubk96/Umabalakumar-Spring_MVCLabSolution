@@ -30,7 +30,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/studentmanagement"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="root"></property>
+		<property name="password" value="Ubk@2212"></property>
 	</bean>
 	
 	<bean id="sessionFactory"
